@@ -26,7 +26,7 @@ python mediapipefacemesh_static.py
 python facemesh.py
 ```
 <div align=center>
-   <img src="https://github.com/guker/MediaPipeFaceMesh/blob/main/demo.jpg" width=270 height=480/><img src="https://github.com/guker/MediaPipeFaceMesh/blob/main/demo2.jpg" width=720 height=480/>
+   <img src="https://github.com/guker/MediaPipeFaceMesh/blob/main/demo.jpg" width=203 height=360/><img src="https://github.com/guker/MediaPipeFaceMesh/blob/main/demo2.jpg" width=540 height=360/>
 </div>
 
 
