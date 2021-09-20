@@ -25,7 +25,8 @@ offical模式
 ```
 python facemesh.py
 ```
-
+* demo
+![image](./demo.jpg)
 
 
 
