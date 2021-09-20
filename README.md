@@ -25,7 +25,7 @@ python mediapipefacemesh_static.py
 ```
 python facemesh.py
 ```
-![image](./demo.jpg){:height="50%" width="50%"}
+<img src="https://github.com/guker/MediaPipeFaceMesh/blob/main/demo.jpg">
 
 
 
